@@ -1,0 +1,411 @@
+[
+  {
+    "id": 1,
+    "frase": "Persiste, si todo fuera fácil, cualquiera lo lograría."
+  },
+  {
+    "id": 2,
+    "frase": "Creo que el crecimiento personal, tiene mucho que ver con la capacidad de actuar."
+  },
+  {
+    "id": 3,
+    "frase": "Deja de tener miedo a lo que puede salir mal, y emociónate por lo que puede salir bien."
+  },
+  {
+    "id": 4,
+    "frase": "Nunca es demasiado tarde para hacer lo que ames."
+  },
+  {
+    "id": 5,
+    "frase": "No siempre conseguimos lo que queremos, pero tarde o temprano la vida nos concede aquello que merecemos."
+  },
+  {
+    "id" : 6,
+    "frase" : "Todas las mañanas, levántate con la idea de comerte el mundo."
+  },
+  {
+      "id" : 7,
+      "frase" : "Tu futuro depende de lo que hagas hoy, no mañana."
+  },
+  {
+      "id" : 8,
+      "frase" : "Si puedes soñarlo, puedes hacerlo."
+  },
+  {
+      "id" : 9,
+      "frase" : "No te conformes con lo que necesitas, ¡ve a por lo que te mereces!."
+  },
+  {
+      "id" : 10,
+      "frase" : "Cuando sientas que vas a rendirte, piensa en por qué empezaste."
+  },
+  {
+      "id" : 11,
+      "frase" : "Pierde el miedo para que no pierdas oportunidades."
+  },
+  {
+      "id" : 12,
+      "frase" : "Trabaja mientras otros duermen. Estudia mientras otros se divierten. Persiste mientras otros descansan y luego vivirás lo que otros solo sueñan."
+  },
+  {
+      "id" : 13,
+      "frase" : "Tu futuro depende de lo que hagas hoy, no mañana."
+  },
+  {
+      "id" : 14,
+      "frase" : "El éxito es la suma de pequeños esfuerzo repetidos día tras día."
+  },
+  {
+      "id" : 15,
+      "frase" : "Siempre habrá alguien que dude de ti, solo asegúrate que esa persona no eres tú."
+  },
+  {
+      "id" : 16,
+      "frase" : "Todo es muy difícil antes de ser fácil."
+  },
+  {
+      "id" : 17,
+      "frase" : "Si quieres puedes, si puedes sigues, si sigues llegas y si llegas lo tienes. Éxito."
+  },
+  {
+      "id" : 18,
+      "frase" : "Puedes más de lo que te imaginas, vales más de lo que crees."
+  },
+  {
+      "id" : 19,
+      "frase" : "Si la montaña que subes parece cada vez más imponente es que la cima está cada vez más cerca."
+  },
+  {
+      "id" : 20,
+      "frase" : "Trabaja duro en silencio y deja que tu éxito haga todo el ruido."
+  },
+  {
+      "id" : 21,
+      "frase" : "No hay vidas complicadas, sólo personas que se complican la vida."
+  },
+  {
+      "id" : 22,
+      "frase" : "Sé la mejor versión de ti mismo."
+  },
+  {
+      "id" : 23,
+      "frase" : "El éxito no tiene nada de especial, sólo se trata de seguir avanzando cuando otros han renunciado."
+  },
+  {
+      "id" : 24,
+      "frase" : "Los límites solo se encuentran en tu propia mente."
+  },
+  {
+      "id" : 25,
+      "frase" : "Eres mucho más de lo que crees ser."
+  },
+  {
+      "id" : 26,
+      "frase" : "Lo único imposible es aquello que no intentas."
+  },
+  {
+      "id" : 27,
+      "frase" : "Todas las cosas suceden a su debido tiempo."
+  },
+  {
+      "id" : 28,
+      "frase" : "Los caminos difíciles conducen a destinos hermosos."
+  },
+  {
+      "id" : 29,
+      "frase" : "Cualquier cosa que puedas imaginar, la puedes crear."
+  },
+  {
+      "id" : 30,
+      "frase" : "La acción es la llave fundamental de todo éxito."
+  },
+  {
+      "id" : 31,
+      "frase" : "No te rindas, el comienzo es siempre lo más difícil."
+  },
+  {
+      "id" : 32,
+      "frase" : "Hacer, no decir."
+  },
+  {
+      "id" : 33,
+      "frase" : "Si el viento deja de soplar, rema."
+  },
+  {
+      "id" : 34,
+      "frase" : "Una persona positiva convierte sus problemas en retos, nunca en obstáculos."
+  },
+  {
+      "id" : 35,
+      "frase" : "Pregúntate si lo que estás haciendo hoy te acerca al lugar en el que quieres estar mañana."
+  },
+  {
+      "id" : 36,
+      "frase" : "Nunca te rindas, a veces la última llave es la que abre la puerta."
+  },
+  {
+      "id" : 37,
+      "frase" : "Los errores no son fracasos, son señal de que lo estamos intentando."
+  },
+  {
+      "id" : 38,
+      "frase" : "Llena tu cabeza de sueños y tu agenda de acciones."
+  },
+  {
+      "id" : 39,
+      "frase" : "Trabaja mientras otros duermen."
+  },
+  {
+      "id" : 40,
+      "frase" : "Insistir, persistir, resistir y nunca desistir."
+  },
+  {
+      "id" : 41,
+      "frase" : "Nunca te rindas, porque estás en el lugar y momento en el que la marea dará la vuelta."
+  },
+  {
+      "id" : 42,
+      "frase" : "El éxito no es permanente y la derrota no es fatal; lo que cuenta es el coraje para continuar."
+  },
+  {
+      "id" : 43,
+      "frase" : "Que cada «no» que recibas se convierta en un impulso para continuar."
+  },
+  {
+      "id" : 44,
+      "frase" : "Nunca digas que es tarde, siempre hay nuevas oportunidades para volver a levantarte."
+  },
+  {
+      "id" : 45,
+      "frase" : "Nunca es tarde para llegar a ser aquello que siempre soñaste."
+  },
+  {
+      "id" : 46,
+      "frase" : "Lo que no te mate, te hará más fuerte."
+  },
+  {
+      "id" : 47,
+      "frase" : "En la vida hay tiempo para todo menos para rendirse."
+  },
+  {
+      "id" : 48,
+      "frase" : "Siempre te parecerá imposible hasta que se hace."
+  },
+  {
+      "id" : 49,
+      "frase" : "Nuestra mayor gloria no es nunca caer, sino levantarnos cada vez que caemos."
+  },
+  {
+      "id" : 50,
+      "frase" : "Cuando sientas que vas a rendirte piensa en por qué empezaste."
+  },
+  {
+      "id" : 51,
+      "frase" : "La confianza en ti mismo es el primer secreto del éxito."
+  },
+  {
+      "id" : 52,
+      "frase" : "No te rindas, cada dificultad es una oportunidad disfrazada."
+  },
+  {
+      "id" : 53,
+      "frase" : "Si el plan no funciona, cambia el plan, pero no cambies la meta."
+  },
+  {
+      "id" : 54,
+      "frase" : "Para poder seguir, a veces, hay que empezar de nuevo."
+  },
+  {
+      "id" : 55,
+      "frase" : "Insistir, persistir, resistir y nunca desistir."
+  },
+  {
+      "id" : 56,
+      "frase" : "Tu único límite es tu mente."
+  },
+  {
+      "id" : 57,
+      "frase" : "No eres lo que logras, eres lo que superas."
+  },
+  {
+      "id" : 58,
+      "frase" : "Sigue luchando, sigue orando, sigue confiando, sigue creyendo."
+  },
+  {
+      "id" : 59,
+      "frase" : "Hazlo, y si te da miedo, hazlo con miedo."
+  },
+  {
+      "id" : 60,
+      "frase" : "El éxito depende del esfuerzo."
+  },
+  {
+      "id" : 61,
+      "frase" : "Lo que haces hoy puede mejorar todos tus mañanas."
+  },
+  {
+    "id" : 62,
+    "frase" : "La mejor manera de predecir el futuro es crearlo."
+  },  
+  {
+      "id" : 63,
+      "frase" : "El fracaso no es una opción."
+  },
+  {
+      "id" : 64,
+      "frase" : "Antes de rendirte, recuerda la razón por la cual empezaste."
+  },
+  {
+      "id" : 65,
+      "frase" : "Haz siempre lo imposible, un paso más."
+  },
+  {
+      "id" : 66,
+      "frase" : "Lo que plantes ahora, lo cosecharás más tarde."
+  },
+  {
+      "id" : 67,
+      "frase" : "Cuando dejas de soñar, dejas de vivir."
+  },
+  {
+      "id" : 68,
+      "frase" : "Pase lo que pase, siempre se tu mismo."
+  },
+  {
+      "id" : 69,
+      "frase" : "Unas veces ganas y otras veces aprendes."
+  },
+  {
+      "id" : 70,
+      "frase" : "Haz siempre lo imposible, no te rindas."
+  },
+  {
+      "id" :71,
+      "frase" : "¡Anímate! La adversidad rompe a algunos hombres; otros rompen records a partir de ella."
+  },
+  {
+      "id" : 72,
+      "frase" : "Si el plan no funciona, cambia el plan pero no la meta."
+  },
+  {
+      "id" : 73,
+      "frase" : "Haz que la felicidad sea tu mejor hábito."
+  },
+  {
+      "id" : 74,
+      "frase" : "Por si lo necesitas… Yo sí creo que vas a conseguirlo."
+  },
+  {
+      "id" : 75,
+      "frase" : "Sonríe y demuéstrales que tú puedes ser feliz, hagan lo que hagan o digan lo que digan."
+  },
+  {
+      "id" : 76,
+      "frase" : "El verdadero líder es quien potencializa las capacidades de su equipo, y hace brillar a su gente."
+  },
+  {
+      "id" : 77,
+      "frase" : "Para empezar un gran proyecto hace falta valentía, para terminar un gran proyecto hace falta perseverancia."
+  },
+  {
+      "id" : 78,
+      "frase" : "No te rindas, la esperanza es lo último que debemos perder."
+  },
+  {
+      "id" : 79,
+      "frase" : "Nadie encuentra su camino sin haberse perdido varias veces."
+  },
+  {
+      "id" : 80,
+      "frase" : "Aunque te sientas perdido y sin fuerzas, recuerda que cada día puede ser el comienzo de algo maravilloso. ¡No te rindas nunca amigo!"
+  },
+  {
+      "id" : 81,
+      "frase" : "El rival más difícil está en tu cabeza."
+  },
+  {
+      "id" : 82,
+      "frase" : "Cree en ti y todo será posible."
+  },
+  {
+      "id" : 83,
+      "frase" : "Levántate, suspira, sonríe y sigue adelante."
+  },
+  {
+      "id" : 84,
+      "frase" : "Si te caíste ayer, levántate hoy."
+  },
+  {
+      "id" : 85,
+      "frase" : "Eres mucho más fuerte de lo que te crees."
+  },
+  {
+      "id" : 86,
+      "frase" : "Solo tendrás éxito si crees que puedes tenerlo."
+  },
+  {
+      "id" : 87,
+      "frase" : "Nunca pares de soñar, este mundo te necesita."
+  },
+  {
+      "id" : 88,
+      "frase" : "Una mentalidad optimista es el mejor estimulante que conocerás jamás."
+  },
+  {
+      "id" : 89,
+      "frase" : "Si piensas que puedes lograrlo, estás un paso más cerca del éxito."
+  },
+  {
+      "id" : 90,
+      "frase" : "Frases para salir adelante"
+  },
+  {
+      "id" : 91,
+      "frase" : "Cuando el camino se hace duro, los duros continúan."
+  },
+  {
+      "id" : 92,
+      "frase" : "El secreto para salir adelante es continuar."
+  },
+  {
+      "id" : 93,
+      "frase" : "Lo que hoy parece un huracán en tu vida… mañana comprenderás que solo era viendo, abriéndote un nuevo camino."
+  },
+  {
+    "id" : 94,
+    "frase" : "Detrás de los sueños siempre hay esfuerzos que la gente no ve."
+},
+{
+    "id" : 95,
+    "frase" : "No te detengas hasta que te sientas orgulloso."
+},
+  {
+      "id" : 96,
+      "frase" : "No todas las tormentas vienen para perturbar tu vida. Algunas llegan para limpiarte el camino."
+  },
+  {
+      "id" : 97,
+      "frase" : "La vida te pondrá obstáculos, pero los límites los pones tú."
+  },
+  {
+      "id" : 98,
+      "frase" : "Siempre habrá motivos para seguir adelante."
+  },
+  {
+      "id" : 99,
+      "frase" : "Superar aquello que te asusta es lo que más te fortalecerá."
+  },
+  {
+      "id" : 100,
+      "frase" : "Respira. Ha sido un mal día, no una mala vida."
+  },
+  {
+      "id" : 101,
+      "frase" : "Transforma un día malo en algo bueno."
+  },
+  {
+      "id" : 102,
+      "frase" : "Dios nunca te dará una carga que no puedas llevar, porque él sabe hasta dónde tus fuerzas llegarán."
+  }
+  
+]
