@@ -64,9 +64,6 @@ export default function Quotes() {
             Siempre habrá motivos para seguir adelante.
           </motion.p>
 
-          <div>{JSON.stringify(el)}</div>
-          {posts && posts.map((post) => <div key={post.id}>{post.frase}</div>)}
-
           <motion.button
             whileHover={{ scale: 1.2 }}
             whileTap={{ scale: 1 }}
